@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm pursing my Bachelor's Degree in Computer Engineering from National Institute of Technology, Kurukshetra.
+- I'm currently learning DSA in cpp.
+- I'm a UI/UX Designer.
+- I'm always ready to grab new opportunities.
+- Currently, I'm looking for summer internship for 2 months.
+- You can reach me through
+  1) Linkedin : https://www.linkedin.com/in/yashwant-jain-4b689124b/
+  2) Gmail : yjain0418@gmail.com 
